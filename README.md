@@ -7,6 +7,8 @@ Drone controller systems rely heavily on complex handheld equipment with a serie
 
 ### Demonstration
 
+https://www.youtube.com/watch?v=BP93dnISaPs
+
 Flight demonstration with the proposed CNN involved the sequence of several steps: 
 - Charge the battery to full power prior to the demonstration. 
 - Clear the environment of all items for a safe flight demonstration.  
