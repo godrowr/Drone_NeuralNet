@@ -1,7 +1,8 @@
 # Drone_NeuralNet
-The objective of this project is to control a drone remotely using hand gestures instead of an RC controller.
+The objective of our 4rth year capstone project is to control a drone remotely using hand gestures instead of an RC controller.
 
 ### Abstract
+
 Drone controller systems rely heavily on complex handheld equipment with a series of joysticks, knobs, levers, triggers, buttons, and switches. These controllers rely on the user to be able to understand and learn how to navigate the many possibilities of commands to the drone. The solution is a simplified no-line-of-sight human-drone controller using only the user’s hands. By allowing a drone to comprehend non-verbal cues, this type of interaction can accelerate the union of human-machine interaction and remove third party control mediums, such as a controller.
 
 ### Demonstration
