@@ -1,6 +1,8 @@
 # Drone_NeuralNet
 The objective of our 4rth year capstone project is to control a drone remotely using hand gestures instead of an RC controller.
 
+Team: Loulia Massarani, Ruqaya Almaki, Shady Hossam, Ryan Gaudreault
+
 Not all the files for our project is here as some are too large. 
 
 ### Abstract
