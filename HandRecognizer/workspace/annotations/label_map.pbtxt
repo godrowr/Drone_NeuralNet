@@ -1,0 +1,13 @@
+item { 
+  id:1
+	name:'thumb-up'
+}
+item { 
+  id:2
+	name:'left'	
+}
+item { 
+  id:3
+	name:'right'
+}
+
